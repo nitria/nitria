@@ -2,7 +2,7 @@
 I'm Nick from Greece and i'm a junior Frontend Developer. I enjoy creating websites from scratch using plain code like html, css, js or with cms like joomla or wordpress. Also i really like creating apps with js. Recently started learning React and Sass. You can check out my repositories or my portfolio https://www.nitria.tk/.
 
 ## Skills and Tools
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
+<img src"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt"html5">
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 ![Nick's github stats](https://github-readme-stats.nitria.vercel.app/api?username=nitria)
