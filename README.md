@@ -3,6 +3,8 @@ I'm Nick from Greece and i'm a junior Frontend Developer. I enjoy creating websi
 
 
 ![Nick's github stats](https://github-readme-stats.nitria.vercel.app/api?username=nitria)
+
+[![Spotify](https://novatorem.nitria.vercel.app/api/spotify)](https://open.spotify.com/user/21fxlnpcy2qepljky3c65g7yq)
 <!--
 **nitria/nitria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
