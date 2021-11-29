@@ -6,7 +6,7 @@ I'm Nick from Greece and i'm a junior Frontend Developer. I enjoy creating websi
 ## Skills and Tools
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="alt text" width="50"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="alt text" width="50"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="alt text" width="40"> <img src="https://p7.hiclipart.com/preview/265/442/487/jquery-ui-javascript-web-browser-pasargad.jpg" alt="alt text" width="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="alt text" width="40"> <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_joomla-512.png" alt="alt text" width="40"> <img src="https://cdn.iconscout.com/icon/free/png-256/wordpress-35-569289.png" alt="alt text" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="alt text" width="40">
 
-![Nick's github stats](github-readme-stats-gamma-plum.vercel.app/api?username=nitria)
+![Nick's github stats](github-readme-stats-nitria.vercel.app/api?username=nitria)
 
 [![Spotify](https://novatorem.nitria.vercel.app/api/spotify)](https://open.spotify.com/user/21fxlnpcy2qepljky3c65g7yq)
 <!--
